@@ -1,0 +1,4 @@
+customtkinter
+Telethon
+PySocks
+opentele
